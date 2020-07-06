@@ -7,3 +7,5 @@ export default axios.create({
     'Content-type': 'application/json',
   },
 });
+
+// fixing heroku create-react-app
